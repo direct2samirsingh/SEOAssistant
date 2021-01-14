@@ -1,0 +1,862 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<body jsmodel="TvHxbe">
+  <header id="hdr">
+    <div class="cOl4Id">
+      <a href="/?sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQOwgC">
+        <span class="V6gwVd">G</span>
+        <span class="iWkuvd">o</span>
+        <span class="cDrQ7">o</span>
+        <span class="V6gwVd">g</span>
+        <span class="ntlR9">l</span>
+        <span class="iWkuvd tJ3Myc">e</span>
+      </a>
+    </div>
+    <div class="bz1lBb">
+      <form class="Pg70bf" id="sf">
+        <a class="l" href="/?output=search&amp;ie=UTF-8&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQPAgE">
+          <span class="V6gwVd">G</span>
+          <span class="iWkuvd">o</span>
+          <span class="cDrQ7">o</span>
+          <span class="V6gwVd">g</span>
+          <span class="ntlR9">l</span>
+          <span class="iWkuvd tJ3Myc">e</span>
+        </a>
+        <div class="H0PQec">
+          <div class="sbc esbc">
+            <div class="x">×</div>
+            <div class="sc"></div>
+          </div>
+        </div>
+        <button id="qdClwb" type="submit"></button>
+      </form>
+    </div>
+    <noscript>
+      <div style="display:block">
+        Please click <a href="/search?q=Berlin&amp;ie=UTF-8&amp;gbv=1&amp;sei=Y_j8X_HUNt6N4-EPjrCb4AY">here</a> if you are not redirected within a few seconds.
+      </div>
+    </noscript>
+  </header>
+  <div id="main">
+    <div>
+      <div class="KP7LCb">
+        <div class="bRsWnc">
+          <div class="N6RWV">
+            <div class="Pg70bf Uv67qb">
+              <span class="OXXup">All</span>
+              <a class="eZt8xd" href="https://maps.google.com/maps?q=Berlin&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ_AUICCgB">Maps</a>
+              <a class="eZt8xd" href="/search?q=Berlin&amp;ie=UTF-8&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ_AUICSgC">Images</a>
+              <a class="eZt8xd" href="/search?q=Berlin&amp;ie=UTF-8&amp;source=lnms&amp;tbm=nws&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ_AUICigD">News</a>
+              <a href="/search?q=Berlin&amp;ie=UTF-8&amp;source=lnms&amp;tbm=vid&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ_AUICygE">Videos</a>
+              <a href="/search?q=Berlin&amp;ie=UTF-8&amp;source=lnms&amp;tbm=shop&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ_AUIDCgF">Shopping</a>
+              <a href="/search?q=Berlin&amp;ie=UTF-8&amp;source=lnms&amp;tbm=bks&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ_AUIDSgG">Books</a>
+              <div class="FElbsf">
+                <a href="/advanced_search" style="white-space:nowrap" id="st-toggle" role="button">Search tools</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="Pg70bf wEsjbd ZINbbc xpd O9g5cc uUPGi" style="display:none" id="st-card">
+        <div class="Xj2aue">
+          <div class="coPU8c">
+            <div class="RnNGze">
+              <div class="PA9J5">
+                <div class="RXaOfd" role="button" tabindex="0">
+                  <div class="TWMOUc">Any time</div>
+                  <span class="OmTIzf"></span>
+                </div>
+                <ul class="sa1toc ozatM">
+                  <li class="yNFsl SkUj4c">Any time</li>
+                  <li class="yNFsl">
+                    <a href="/search?q=Berlin&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:h&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQpwUIDw">Past hour</a>
+                  </li>
+                  <li class="yNFsl">
+                    <a href="/search?q=Berlin&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:d&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQpwUIEA">Past 24 hours</a>
+                  </li>
+                  <li class="yNFsl">
+                    <a href="/search?q=Berlin&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:w&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQpwUIEQ">Past week</a>
+                  </li>
+                  <li class="yNFsl">
+                    <a href="/search?q=Berlin&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:m&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQpwUIEg">Past month</a>
+                  </li>
+                  <li class="yNFsl">
+                    <a href="/search?q=Berlin&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:y&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQpwUIEw">Past year</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="PA9J5">
+                <div class="RXaOfd" role="button" tabindex="0">
+                  <div class="TWMOUc">All results</div>
+                  <span class="OmTIzf"></span>
+                </div>
+                <ul class="sa1toc ozatM">
+                  <li class="yNFsl SkUj4c">All results</li>
+                  <li class="yNFsl">
+                    <a href="/search?q=Berlin&amp;ie=UTF-8&amp;source=lnt&amp;tbs=li:1&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQpwUIFQ">Verbatim</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <!--SW_C_X-->
+    </div>
+    <div>
+      <div class="ZINbbc xpd O9g5cc uUPGi">
+        <div class="kCrYT">
+          <div class="nGphre"></div>
+          <span>
+            <h3 class="zBAuLc">
+              <div class="BNeawe deIvCb AP7Wnd">Berlin</div>
+            </h3>
+          </span>
+          <span>
+            <div class="BNeawe tAd8D AP7Wnd">Capital of Germany</div>
+          </span>
+          <div class="nYT7Qb"></div>
+        </div>
+        <div class="Q0HXG"></div>
+        <div class="kCrYT">
+          <div>
+            <div class="BNeawe s3v9rd AP7Wnd">
+              <div>
+                <div class="BNeawe s3v9rd AP7Wnd">Berlin, Germany&#8217;s capital, dates to the 13th century. Reminders of the city's turbulent 20th-century history include its Holocaust memorial and the Berlin Wall's graffitied remains. Divided during the Cold War, its 18th-century Brandenburg Gate has become a symbol of reunification. The city's also known for its art scene and modern landmarks like the gold-colored, swoop-roofed Berliner Philharmonie, built in 1963.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="ZINbbc xpd O9g5cc uUPGi">
+        <div class="kCrYT">
+          <div class="q4vBJc"></div>
+          <span>
+            <h2 class="zBAuLc">
+              <div class="BNeawe deIvCb AP7Wnd">See results about</div>
+            </h2>
+          </span>
+        </div>
+        <div class="Q0HXG"></div>
+        <div class="X7NTVe">
+          <a class="tHmfQe" href="/search?ie=UTF-8&amp;q=Berlin+Band&amp;stick=H4sIAAAAAAAAAONgVuLSz9U3MMzIyra0AADcEzmCDgAAAA&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ6RMwDnoECAcQAw">
+            <div class="am3QBf">
+              <div>
+                <span>
+                  <h3 class="zBAuLc">
+                    <div class="BNeawe deIvCb AP7Wnd">
+                      <span class="rQMQod Xb5VRe">Berlin (Band)</span>
+                    </div>
+                  </h3>
+                </span>
+                <span>
+                  <div class="BNeawe tAd8D AP7Wnd">
+                    Songs: <span class="r0bn4c rQMQod">Take My Breath Away</span>, <span class="r0bn4c rQMQod">No More Words</span> and <span class="r0bn4c rQMQod">The Metro</span>
+                    Members: <span class="r0bn4c rQMQod">Terri Nunn</span>, <span class="r0bn4c rQMQod">John Crawford</span>, <span class="r0bn4c rQMQod">Toni Childs</span> and <span class="r0bn4c rQMQod">Rod Learned</span>
+                  </div>
+                </span>
+              </div>
+            </div>
+          </a>
+          <div class="UHtrk XS7yGd">
+            <a href="/search?ie=UTF-8&amp;q=Berlin+Band&amp;stick=H4sIAAAAAAAAAONgVuLSz9U3MMzIyra0AADcEzmCDgAAAA&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ6RMwDnoECAcQBg"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="ZINbbc xpd O9g5cc uUPGi">
+        <div class="kCrYT">
+          <a href="/url?q=https://en.wikipedia.org/wiki/Berlin&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQFjAPegQIBBAB&amp;usg=AOvVaw2SfAnO44oLyGxkuxLhIfTb">
+            <h3 class="zBAuLc">
+              <div class="BNeawe vvjwJb AP7Wnd">Berlin - Wikipedia</div>
+            </h3>
+            <div class="BNeawe UPmit AP7Wnd">en.wikipedia.org &#8250; wiki &#8250; Berlin</div>
+          </a>
+        </div>
+        <div class="x54gtf"></div>
+        <div class="kCrYT">
+          <div>
+            <div class="BNeawe s3v9rd AP7Wnd">
+              <div>
+                <div>
+                  <div class="Ap5OSd">
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      Berlin is the capital and largest city of Germany by both area and population. Its 3,769,495 inhabitants as of 31 December 2019 make it the most-populous city of  ...
+
+                      Area code(s): <span class="BNeawe">
+                        <a href="/url?q=https://en.wikipedia.org/wiki/List_of_dialling_codes_in_Germany%23030_%25E2%2580%2593_Berlin&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs2YwD3oECAQQBA&amp;usg=AOvVaw10fzSPZbVTNG_kCy1LG0UM">
+                          <span class="XLloXe AP7Wnd">030</span>
+                        </a>
+                      </span>
+                      Country: <span class="r0bn4c rQMQod">Germany</span>
+                      Elevation: <span class="r0bn4c rQMQod">34 m (112 ft)</span>
+                      Demonyms: <span class="r0bn4c rQMQod">Berliner(s) (English); Berliner (m), Berlinerin (f) (German)</span>
+                    </div>
+                  </div>
+                  <div class="v9i61e">
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      <span class="BNeawe">
+                        <a href="/url?q=https://en.wikipedia.org/wiki/History_of_Berlin&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQjBAwEHoECAQQCQ&amp;usg=AOvVaw0HgjTISFfth7h5ANQA8jcx">
+                          <span class="XLloXe AP7Wnd">History of Berlin</span>
+                        </a>
+                      </span>
+                    </div>
+                  </div>
+                  <div class="v9i61e">
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      <span class="BNeawe">
+                        <a href="/url?q=https://en.wikipedia.org/wiki/Demographics_of_Berlin&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQjBAwEXoECAQQCw&amp;usg=AOvVaw16emKY9G7jXsJUnmkyyznd">
+                          <span class="XLloXe AP7Wnd">Demographics of Berlin</span>
+                        </a>
+                      </span>
+                    </div>
+                  </div>
+                  <div class="v9i61e">
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      <span class="BNeawe">
+                        <a href="/url?q=https://en.wikipedia.org/wiki/1920s_Berlin&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQjBAwEnoECAQQDQ&amp;usg=AOvVaw1rj2gykGexY7nMebfHAg--">
+                          <span class="XLloXe AP7Wnd">1920s Berlin</span>
+                        </a>
+                      </span>
+                    </div>
+                  </div>
+                  <div class="v9i61e">
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      <span class="BNeawe">
+                        <a href="/url?q=https://en.wikipedia.org/wiki/Fernsehturm_Berlin&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQjBAwE3oECAQQDw&amp;usg=AOvVaw1rEEZziWt7ZVsmE-hlRs0A">
+                          <span class="XLloXe AP7Wnd">Fernsehturm Berlin</span>
+                        </a>
+                      </span>
+                    </div>
+                  </div>
+                  <div class="v9i61e">
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      <span class="BNeawe">
+                        <a href="/url?q=https://en.wikipedia.org/wiki/Berlin/Brandenburg_Metropolitan_Region&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQjBAwFHoECAQQEQ&amp;usg=AOvVaw1M0m2zaVjZFfWn1Pz7OVop">
+                          <span class="XLloXe AP7Wnd">Berlin-Brandenburg</span>
+                        </a>
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      <span class="BNeawe">
+                        <a href="/url?q=https://en.wikipedia.org/wiki/Berlin_U-Bahn&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQjBAwFXoECAQQEw&amp;usg=AOvVaw1IRFNo6Q5_FPPfxiZvZSRZ">
+                          <span class="XLloXe AP7Wnd">U-Bahn</span>
+                        </a>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+      <h2 class="wITvVb">
+        <span>
+          <div class="BNeawe deIvCb AP7Wnd">
+            <span class="FCUp0c rQMQod">People also ask</span>
+          </div>
+        </span>
+      </h2>
+      <div class="LKSyXe"></div>
+      <div class="xpc">
+        <div class="duf-h">
+          <div class="fLtXsc hide-focus-ring iIWm4b" aria-expanded="false" id="tsuid62" role="button" tabindex="0" data-ved="2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQuk56BAgUEAI">
+            <div class="Lt3Tzc">What is the Berlin famous for?</div>
+            <div class="Lym8W xCgLUe">
+              <div class="AeQQub hwc"></div>
+              <div class="YCU7eb hwc"></div>
+              <div class="IyYaEd hwx"></div>
+              <div class="ECUHQe hwx"></div>
+            </div>
+          </div>
+        </div>
+        <div class="qxDOhb" id="accdef_63"></div>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="xpc">
+        <div class="duf-h">
+          <div class="fLtXsc hide-focus-ring iIWm4b" aria-expanded="false" id="tsuid65" role="button" tabindex="0" data-ved="2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQuk56BAgUEAU">
+            <div class="Lt3Tzc">Is Berlin a dangerous city?</div>
+            <div class="Lym8W xCgLUe">
+              <div class="AeQQub hwc"></div>
+              <div class="YCU7eb hwc"></div>
+              <div class="IyYaEd hwx"></div>
+              <div class="ECUHQe hwx"></div>
+            </div>
+          </div>
+        </div>
+        <div class="qxDOhb" id="accdef_66"></div>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="xpc">
+        <div class="duf-h">
+          <div class="fLtXsc hide-focus-ring iIWm4b" aria-expanded="false" id="tsuid68" role="button" tabindex="0" data-ved="2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQuk56BAgUEAg">
+            <div class="Lt3Tzc">What to do in Berlin in 3 days?</div>
+            <div class="Lym8W xCgLUe">
+              <div class="AeQQub hwc"></div>
+              <div class="YCU7eb hwc"></div>
+              <div class="IyYaEd hwx"></div>
+              <div class="ECUHQe hwx"></div>
+            </div>
+          </div>
+        </div>
+        <div class="qxDOhb" id="accdef_69"></div>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="xpc">
+        <div class="duf-h">
+          <div class="fLtXsc hide-focus-ring iIWm4b" aria-expanded="false" id="tsuid71" role="button" tabindex="0" data-ved="2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQuk56BAgUEAs">
+            <div class="Lt3Tzc">Do they speak English in Berlin?</div>
+            <div class="Lym8W xCgLUe">
+              <div class="AeQQub hwc"></div>
+              <div class="YCU7eb hwc"></div>
+              <div class="IyYaEd hwx"></div>
+              <div class="ECUHQe hwx"></div>
+            </div>
+          </div>
+        </div>
+        <div class="qxDOhb" id="accdef_72"></div>
+      </div>
+    </div>
+    <div>
+      <div class="ZINbbc xpd O9g5cc uUPGi">
+        <div class="kCrYT">
+          <a href="/url?q=https://en.wikipedia.org/wiki/Berlin_(band)&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQFjAeegQIAhAB&amp;usg=AOvVaw04Yb0CAnpVHvRtHPH2K-fa">
+            <h3 class="zBAuLc">
+              <div class="BNeawe vvjwJb AP7Wnd">Berlin (band) - Wikipedia</div>
+            </h3>
+            <div class="BNeawe UPmit AP7Wnd">en.wikipedia.org &#8250; wiki &#8250; Berlin_(band)</div>
+          </a>
+        </div>
+        <div class="x54gtf"></div>
+        <div class="kCrYT">
+          <div>
+            <div class="BNeawe s3v9rd AP7Wnd">
+              <div>
+                <div>
+                  <div class="BNeawe s3v9rd AP7Wnd">
+                    Berlin is an American new wave band formed in Los Angeles in 1978. The band gained commercial success in the 1980s with singles including "Sex (I'm A..
+
+                    Members: <span class="BNeawe">
+                      <a href="/url?q=https://en.wikipedia.org/wiki/Terri_Nunn&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs2YwHnoECAIQBA&amp;usg=AOvVaw3TUY6Jljmx_YqXeekgVZVr">
+                        <span class="XLloXe AP7Wnd">Terri Nunn</span>
+                      </a>
+                    </span><span class="r0bn4c rQMQod">; </span><span class="BNeawe">
+                      <a href="/url?q=https://en.wikipedia.org/wiki/John_Crawford_(musician)&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs2YwHnoECAIQBQ&amp;usg=AOvVaw1fGmN8Gfl1xAnftqj1jtxF">
+                        <span class="XLloXe AP7Wnd">John Crawford</span>
+                      </a>
+                    </span><span class="r0bn4c rQMQod">; David Diamond; </span><span class="BNeawe">
+                      <a href="/url?q=https://en.wikipedia.org/wiki/Dave_Schulz_(musician)&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs2YwHnoECAIQBg&amp;usg=AOvVaw12nQsXmMoqm87fS_eO1lDT">
+                        <span class="XLloXe AP7Wnd">Dave Schulz</span>
+                      </a>
+                    </span><span class="r0bn4c rQMQod">; </span><span class="BNeawe">
+                      <a href="/url?q=https://en.wikipedia.org/wiki/Carlton_Bost&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs2YwHnoECAIQBw&amp;usg=AOvVaw32xNCBWI3DAz6JEM11WVIg">
+                        <span class="XLloXe AP7Wnd">Carlton Bost</span>
+                      </a>
+                    </span><span class="r0bn4c rQMQod">; Paloma Estevez</span>
+                    Origin: <span class="BNeawe">
+                      <a href="/url?q=https://en.wikipedia.org/wiki/Los_Angeles&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs2YwHnoECAIQCQ&amp;usg=AOvVaw2kqM9eUdsLgSkDVQzOYNdK">
+                        <span class="XLloXe AP7Wnd">Los Angeles</span>
+                      </a>
+                    </span><span class="r0bn4c rQMQod">, California, U.S</span>
+                    Genres: <span class="BNeawe">
+                      <a href="/url?q=https://en.wikipedia.org/wiki/New_wave_music&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs2YwHnoECAIQCw&amp;usg=AOvVaw09kSzntgPPtD1Sm_DwT6Vd">
+                        <span class="XLloXe AP7Wnd">New wave</span>
+                      </a>
+                    </span><span class="r0bn4c rQMQod">; </span><span class="BNeawe">
+                      <a href="/url?q=https://en.wikipedia.org/wiki/Synth-pop&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs2YwHnoECAIQDA&amp;usg=AOvVaw2hqzIrjswVGDR2qAHHZztX">
+                        <span class="XLloXe AP7Wnd">synth-pop</span>
+                      </a>
+                    </span><span class="r0bn4c rQMQod">; </span><span class="BNeawe">
+                      <a href="/url?q=https://en.wikipedia.org/wiki/Post-punk&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs2YwHnoECAIQDQ&amp;usg=AOvVaw3GxYe-0LHF1R3VxE-vBM37">
+                        <span class="XLloXe AP7Wnd">post-punk</span>
+                      </a>
+                    </span>
+                    Years active: <span class="r0bn4c rQMQod">1978&#8211;1987; 1997&#8211;present</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="ZINbbc xpd O9g5cc uUPGi">
+        <div class="kCrYT">
+          <div class="BNeawe deIvCb AP7Wnd">
+            <span class="BNeawe">
+              <a href="https://www.google.com/search?ie=UTF-8&amp;ei=Y_j8X_HUNt6N4-EPjrCb4AY&amp;q=Berlin&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQsAR6BAgIEAE">
+                <span class="deIvCb AP7Wnd">
+                  <span class="FCUp0c rQMQod">Images</span>
+                </span>
+              </a>
+            </span>
+          </div>
+          <div class="BNeawe tAd8D AP7Wnd">
+            <span class="BNeawe">
+              <a href="https://www.google.com/search?ie=UTF-8&amp;ei=Y_j8X_HUNt6N4-EPjrCb4AY&amp;q=Berlin&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ7Al6BAgIEAI">
+                <span class="tAd8D AP7Wnd">
+                  <span class="rQMQod Xb5VRe">View all</span>
+                </span>
+              </a>
+            </span>
+          </div>
+        </div>
+        <div>
+          <div>
+            <div>
+              <div class="Xdlr0d">
+                <div class="idg8be">
+                  <a class="BVG0Nb" href="https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/6/6c/Aerial_view_of_Berlin_%252832881394137%2529.jpg&amp;imgrefurl=https://en.wikipedia.org/wiki/Berlin&amp;h=2679&amp;w=4026&amp;tbnid=XDZc0yNOKGYKzM&amp;q=Berlin&amp;tbnh=100&amp;tbnw=150&amp;usg=AI4_-kQpZpRVNKTsr-b2PTp43IfPq8U7pg&amp;vet=1&amp;docid=r9PoVQ_dOeJwuM&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ9QEwH3oECAgQBA">
+                    <div></div>
+                  </a>
+                  <a class="BVG0Nb" href="https://www.google.com/imgres?imgurl=https://files.klgates.com/images/office/107764_image.png&amp;imgrefurl=https://www.klgates.com/Berlin-Germany?nomobile%3Dperm&amp;h=497&amp;w=738&amp;tbnid=6n6EQ1l3HdorkM&amp;q=Berlin&amp;tbnh=95&amp;tbnw=141&amp;usg=AI4_-kSHh2xxopGmJ_KdD3GkFxgHEfyHzQ&amp;vet=1&amp;docid=bevgkWedhPNvFM&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ9QEwIHoECAgQBg">
+                    <div></div>
+                  </a>
+                  <a class="BVG0Nb" href="https://www.google.com/imgres?imgurl=https://media.timeout.com/images/105303515/image.jpg&amp;imgrefurl=https://www.timeout.com/berlin&amp;h=1365&amp;w=2048&amp;tbnid=LiqA-uMHmoXWUM&amp;q=Berlin&amp;tbnh=100&amp;tbnw=150&amp;usg=AI4_-kTTqJZSWtkI3f-e6y-MalagGK08pQ&amp;vet=1&amp;docid=GAG-GxthXtTirM&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ9QEwIXoECAgQCA">
+                    <div></div>
+                  </a>
+                  <a class="BVG0Nb" href="https://www.google.com/imgres?imgurl=https://m.dw.com/image/43901161_401.jpg&amp;imgrefurl=https://www.dw.com/en/what-does-berlin-have-that-nyc-doesnt/a-49171393&amp;h=394&amp;w=700&amp;tbnid=kQgzeAL7PDOduM&amp;q=Berlin&amp;tbnh=79&amp;tbnw=140&amp;usg=AI4_-kR0DE9sjYkzmMFvuqjIWThAtKcfeQ&amp;vet=1&amp;docid=X76yL4obGVR_3M&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ9QEwInoECAgQCg">
+                    <div></div>
+                  </a>
+                  <a class="BVG0Nb" href="https://www.google.com/imgres?imgurl=https://www.nationalgeographic.com/content/dam/travel/Guide-Pages/europe/berlin-travel.jpg&amp;imgrefurl=https://www.nationalgeographic.com/travel/destinations/europe/germany/berlin/&amp;h=2002&amp;w=3000&amp;tbnid=o1Bw2vaSpb6BpM&amp;q=Berlin&amp;tbnh=100&amp;tbnw=150&amp;usg=AI4_-kR0DvJey8pbxuI2wWcxexs2pC4zwA&amp;vet=1&amp;docid=aD5clx8XtD2egM&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ9QEwI3oECAgQDA">
+                    <div></div>
+                  </a>
+                  <a class="BVG0Nb" href="https://www.google.com/imgres?imgurl=https://study-eu.s3.amazonaws.com/uploads/image/path/171/wide_fullhd_14798621115_bcba1d1e7b_o.jpg&amp;imgrefurl=https://www.study.eu/city/berlin&amp;h=800&amp;w=1920&amp;tbnid=ARB-pIjetUJDKM&amp;q=Berlin&amp;tbnh=63&amp;tbnw=150&amp;usg=AI4_-kR0rC02uGIBu6_F5mMoDGc2TrJTmQ&amp;vet=1&amp;docid=tFBg3afRlzzlYM&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ9QEwJHoECAgQDg">
+                    <div></div>
+                  </a>
+                  <div class="mHhylf">
+                    <div class="WZ5GJf">
+                      <a class="qN9Ked" href="https://www.google.com/search?ie=UTF-8&amp;ei=Y_j8X_HUNt6N4-EPjrCb4AY&amp;q=Berlin&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ7Al6BAgIEA8">
+                        <button class="DXk5Me Qi9Fd" tabindex="-1"></button>
+                        <div class="BNeawe ji5jpf tAd8D AP7Wnd">View all</div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="ZINbbc xpd O9g5cc uUPGi">
+        <div class="kCrYT">
+          <a href="/url?q=https://www.britannica.com/place/Berlin&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQFjAlegQIBRAB&amp;usg=AOvVaw0OwcQpfkUIpXv1YXgMrjea">
+            <h3 class="zBAuLc">
+              <div class="BNeawe vvjwJb AP7Wnd">Berlin | History, Map, Population, Attractions, &amp; Facts | Britannica</div>
+            </h3>
+            <div class="BNeawe UPmit AP7Wnd">www.britannica.com &#8250; ... &#8250; Cities &amp; Towns &#8250; Cities &amp; Towns A-B</div>
+          </a>
+        </div>
+        <div class="x54gtf"></div>
+        <div class="kCrYT">
+          <div>
+            <div class="BNeawe s3v9rd AP7Wnd">
+              <div>
+                <div>
+                  <div class="BNeawe s3v9rd AP7Wnd">
+                    <span class="r0bn4c rQMQod">31 Jan 2020</span><span class="r0bn4c rQMQod"> · </span>Berlin, capital and chief urban center of Germany. The city lies at the heart of the North German Plain, athwart an east-west commercial and ...
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="ZINbbc xpd O9g5cc uUPGi">
+        <div class="kCrYT">
+          <a href="/url?q=https://www.visitberlin.de/en&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQFjAmegQIABAB&amp;usg=AOvVaw2KgkHq1w8RVLsFx4Yd8JSh">
+            <h3 class="zBAuLc">
+              <div class="BNeawe vvjwJb AP7Wnd">visitBerlin.de: Berlin's official travel website</div>
+            </h3>
+            <div class="BNeawe UPmit AP7Wnd">www.visitberlin.de &#8250; ...</div>
+          </a>
+        </div>
+        <div class="x54gtf"></div>
+        <div class="kCrYT">
+          <div>
+            <div class="BNeawe s3v9rd AP7Wnd">
+              <div>
+                <div>
+                  <div class="BNeawe s3v9rd AP7Wnd">Berlin's official travel portal visitBerlin.de: &#10003; sights &#10003; hotels &#10003; tips &#10003; events &amp; tickets &#9659; Here you can find out everything about the capital!</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="ZINbbc xpd O9g5cc uUPGi">
+        <div class="kCrYT">
+          <a href="/url?q=https://www.lonelyplanet.com/germany/berlin&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQFjAnegQIARAB&amp;usg=AOvVaw0q7tBZ3qBm8Wq8ThjRiv10">
+            <h3 class="zBAuLc">
+              <div class="BNeawe vvjwJb AP7Wnd">Berlin travel | Germany, Europe - Lonely Planet</div>
+            </h3>
+            <div class="BNeawe UPmit AP7Wnd">www.lonelyplanet.com &#8250; Europe &#8250; Germany</div>
+          </a>
+        </div>
+        <div class="x54gtf"></div>
+        <div class="kCrYT">
+          <div>
+            <div class="BNeawe s3v9rd AP7Wnd">
+              <div>
+                <div>
+                  <div class="BNeawe s3v9rd AP7Wnd">Explore Berlin holidays and discover the best time and places to visit. | Berlin's combo of glamour and grit is bound to mesmerise all those keen to explore its ...</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="ZINbbc xpd O9g5cc uUPGi">
+        <div class="kCrYT">
+          <a href="/url?q=https://www.timeout.com/berlin&amp;sa=U&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQFjAoegQIAxAB&amp;usg=AOvVaw3f396osS6rS8GvXAljpfD7">
+            <h3 class="zBAuLc">
+              <div class="BNeawe vvjwJb AP7Wnd">Time Out Berlin: Best things to do, Restaurants and More</div>
+            </h3>
+            <div class="BNeawe UPmit AP7Wnd">www.timeout.com &#8250; berlin</div>
+          </a>
+        </div>
+        <div class="x54gtf"></div>
+        <div class="kCrYT">
+          <div>
+            <div class="BNeawe s3v9rd AP7Wnd">
+              <div>
+                <div>
+                  <div class="BNeawe s3v9rd AP7Wnd">Check out our guide to Berlin, covering the best things to do, restaurants, bars, hotels, attractions and more.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+      <h2 class="wITvVb">
+        <span>
+          <div class="BNeawe deIvCb AP7Wnd">
+            <span class="FCUp0c rQMQod">Related searches</span>
+          </div>
+        </span>
+      </h2>
+      <div class="LKSyXe"></div>
+      <div class="xpx">
+        <div class="duf-h">
+          <div class="fLtXsc hide-focus-ring iIWm4b" aria-expanded="true" id="tsuid47" role="button" tabindex="0" data-ved="2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ3aYDegQIDRAC">
+            <div class="NtmAdb">
+              <div class="SXn0g GXKcHe">
+                <div style="width:40px;height:40px;position:static"></div>
+              </div>
+            </div>
+            <div class="Lt3Tzc">Cities in Germany</div>
+            <div class="Lym8W xCgLUe">
+              <div class="AeQQub hwc"></div>
+              <div class="YCU7eb hwc"></div>
+              <div class="IyYaEd hwx"></div>
+              <div class="ECUHQe hwx"></div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="hwc W5nzFf">
+            <div class="r2NYtc">
+              <div>
+                <div class="ZINbbc xpd O9g5cc uUPGi">
+                  <div class="FybcKc">
+                    <div>
+                      <div>
+                        <div class="Xdlr0d">
+                          <div class="idg8be">
+                            <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=Munich&amp;stick=H4sIAAAAAAAAAOOQUeLSz9U3MMowizcrMBJMzizJTC1WyMxTSE8tyk3Mq4xic0otysnMO8WIpO4UIweYU2WQBWUamhrkQZkpxsaGUKZlkmUulGluZB4PZWakmedAmSbZaSYwE8oskn8xCjrDHeAOccAiVjbf0rzM5IxbbJIMWlOruE5-WGPSqbBqxu9Y7jyNNZ35---Y7AIAWSLLbMcAAAA&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs9oBegQIBhAB">
+                              <div>
+                                <div style="width:112px">
+                                  <div class="S7Jdze" style="width:112px;height:112px"></div>
+                                  <div class="RWuggc kCrYT">
+                                    <div>
+                                      <div class="BNeawe s3v9rd AP7Wnd">Munich</div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </a>
+                            <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=Frankfurt&amp;stick=H4sIAAAAAAAAAOOQUeLQz9U3MKoyyDISTM4syUwtVsjMU0hPLcpNzKuMYnNKLcrJzDvFyAVWlWEWb1ZwihGuBco0NDXIgzJTjI0NoUzLJMtcKNPcyDweysxIM8-BMk2y00xgJpRZJP9iFHSGO8Ad4oBFrJxuRYl52WmlRSW32CQZtKZWcZ38sMakU2HVjN-x3Hkaazrz998x2QUAZyVtPsgAAAA&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs9oBegQIBhAC">
+                              <div>
+                                <div style="width:112px">
+                                  <div class="S7Jdze" style="width:112px;height:112px"></div>
+                                  <div class="RWuggc kCrYT">
+                                    <div>
+                                      <div class="BNeawe s3v9rd AP7Wnd">Frankfurt</div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </a>
+                            <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=Bonn&amp;stick=H4sIAAAAAAAAAOOQUeLQz9U3MDQ1yDMSTM4syUwtVsjMU0hPLcpNzKuMYnNKLcrJzDvFyAVSZZRhFm9WcIoRrMWoyiALygTphjJTjI0NoUzLJMtcKNPcyDweysxIM8-BMk2y00xgJpRZJP9iFHSGO8Ad4oBFrCxO-Xl5t9gkGbSmVnGd_LDGpFNh1Yzfsdx5Gms68_ffMdkFAM1Tti3DAAAA&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs9oBegQIBhAD">
+                              <div>
+                                <div style="width:112px">
+                                  <div class="S7Jdze" style="width:112px;height:112px"></div>
+                                  <div class="RWuggc kCrYT">
+                                    <div>
+                                      <div class="BNeawe s3v9rd AP7Wnd">Bonn</div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </a>
+                            <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=Potsdam&amp;stick=H4sIAAAAAAAAAOOQUeLQz9U3SDE2NjQSTM4syUwtVsjMU0hPLcpNzKuMYnNKLcrJzDvFyAVSZZRhFm9WcIoRrMWoyiALyjQ0NciDMkEGQZmWSZa5UKa5kXk8lJmRZp4DZZpkp5nATCizSP7FKOgMd4A7xAGLWNkD8kuKUxJzb7FJMmhNreI6-WGNSafCqhm_Y7nzNNZ05u-_Y7ILAM0BEk7GAAAA&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQs9oBegQIBhAE">
+                              <div>
+                                <div style="width:112px">
+                                  <div class="S7Jdze" style="width:112px;height:112px"></div>
+                                  <div class="RWuggc kCrYT">
+                                    <div>
+                                      <div class="BNeawe s3v9rd AP7Wnd">Potsdam</div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </a>
+                            <div class="mHhylf">
+                              <div class="WZ5GJf">
+                                <a class="qN9Ked" href="/search?ie=UTF-8&amp;q=Cities+in+Germany&amp;stick=H4sIAAAAAAAAAOOQMRJMzizJTC1WyMxTSE8tyk3Mq4xic0otysnMO8XIpZ-rb2CUYRZvVnCKkQPMqTLIgjINTQ3yoMwUY2NDKNMyyTIXyjQ3Mo-HMjPSzHOgTJPsNBOYCWUWyb8YBZ3hDnCHOGARK6bYLTZJBq2pVVwnP6wx6VRYNeN3LHeexprO_P13THYBAK2MIwHGAAAA&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQzO0BegQIBhAF">
+                                  <button class="DXk5Me Qi9Fd" tabindex="-1"></button>
+                                  <div class="BNeawe ji5jpf tAd8D AP7Wnd">More results</div>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="PDHNXc">
+                <div class="iU269d TeHtNe">
+                  <span class="kXUfPb Vp9uZ">
+                    <a class="RtoYlb MHODM" href="/search?ie=UTF-8&amp;q=Cities+in+Germany&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ4qYDegQIDRAD">Cities in Germany</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="xpc">
+        <div class="duf-h">
+          <div class="fLtXsc hide-focus-ring iIWm4b" aria-expanded="false" id="tsuid50" role="button" tabindex="0" data-ved="2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ3aYDegQIDRAF">
+            <div class="NtmAdb">
+              <div class="SXn0g GXKcHe">
+                <div style="width:40px;height:40px;position:static"></div>
+              </div>
+            </div>
+            <div class="Lt3Tzc">Largest state in Germany</div>
+            <div class="Lym8W xCgLUe">
+              <div class="AeQQub hwc"></div>
+              <div class="YCU7eb hwc"></div>
+              <div class="IyYaEd hwx"></div>
+              <div class="ECUHQe hwx"></div>
+            </div>
+          </div>
+        </div>
+        <div class="qxDOhb" id="accdef_53"></div>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="xpc">
+        <div class="duf-h">
+          <div class="fLtXsc hide-focus-ring iIWm4b" aria-expanded="false" id="tsuid55" role="button" tabindex="0" data-ved="2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ3aYDegQIDRAI">
+            <div class="NtmAdb">
+              <div class="SXn0g GXKcHe">
+                <div style="width:40px;height:40px;position:static"></div>
+              </div>
+            </div>
+            <div class="Lt3Tzc">UNESCO World Heritage Sites Germany</div>
+            <div class="Lym8W xCgLUe">
+              <div class="AeQQub hwc"></div>
+              <div class="YCU7eb hwc"></div>
+              <div class="IyYaEd hwx"></div>
+              <div class="ECUHQe hwx"></div>
+            </div>
+          </div>
+        </div>
+        <div class="qxDOhb" id="accdef_58"></div>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="Sljvkf iIWm4b">
+        <a class="fohFr" href="/search?ie=UTF-8&amp;q=Berlin+Wall&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ1QJ6BAgNEAs">
+          <accordion-entry-search-icon>
+            <span class="QDvyZe WqQeqc LsF2v">
+              <span></span>
+            </span>
+          </accordion-entry-search-icon>
+          <div class="EbCMvf cREFlf">
+            <div class="yE2Vzb">
+              <span>
+                <div class="BNeawe s3v9rd AP7Wnd lRVwie">Berlin Wall</div>
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="Sljvkf iIWm4b">
+        <a class="fohFr" href="/search?ie=UTF-8&amp;q=Berlin+time&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ1QJ6BAgNEA0">
+          <accordion-entry-search-icon>
+            <span class="QDvyZe WqQeqc LsF2v">
+              <span></span>
+            </span>
+          </accordion-entry-search-icon>
+          <div class="EbCMvf cREFlf">
+            <div class="yE2Vzb">
+              <span>
+                <div class="BNeawe s3v9rd AP7Wnd lRVwie">Berlin time</div>
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="Sljvkf iIWm4b">
+        <a class="fohFr" href="/search?ie=UTF-8&amp;q=Berlin+attractions&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ1QJ6BAgNEA8">
+          <accordion-entry-search-icon>
+            <span class="QDvyZe WqQeqc LsF2v">
+              <span></span>
+            </span>
+          </accordion-entry-search-icon>
+          <div class="EbCMvf cREFlf">
+            <div class="yE2Vzb">
+              <span>
+                <div class="BNeawe s3v9rd AP7Wnd lRVwie">Berlin attractions</div>
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="Sljvkf iIWm4b">
+        <a class="fohFr" href="/search?ie=UTF-8&amp;q=Berlin+weather&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ1QJ6BAgNEBE">
+          <accordion-entry-search-icon>
+            <span class="QDvyZe WqQeqc LsF2v">
+              <span></span>
+            </span>
+          </accordion-entry-search-icon>
+          <div class="EbCMvf cREFlf">
+            <div class="yE2Vzb">
+              <span>
+                <div class="BNeawe s3v9rd AP7Wnd lRVwie">Berlin weather</div>
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="Sljvkf iIWm4b">
+        <a class="fohFr" href="/search?ie=UTF-8&amp;q=Berlin+Germany&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ1QJ6BAgNEBM">
+          <accordion-entry-search-icon>
+            <span class="QDvyZe WqQeqc LsF2v">
+              <span></span>
+            </span>
+          </accordion-entry-search-icon>
+          <div class="EbCMvf cREFlf">
+            <div class="yE2Vzb">
+              <span>
+                <div class="BNeawe s3v9rd AP7Wnd lRVwie">Berlin Germany</div>
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="Sljvkf iIWm4b">
+        <a class="fohFr" href="/search?ie=UTF-8&amp;q=Berlin+Movie&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ1QJ6BAgNEBU">
+          <accordion-entry-search-icon>
+            <span class="QDvyZe WqQeqc LsF2v">
+              <span></span>
+            </span>
+          </accordion-entry-search-icon>
+          <div class="EbCMvf cREFlf">
+            <div class="yE2Vzb">
+              <span>
+                <div class="BNeawe s3v9rd AP7Wnd lRVwie">Berlin Movie</div>
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="Sljvkf iIWm4b">
+        <a class="fohFr" href="/search?ie=UTF-8&amp;q=Berlin+Packaging&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ1QJ6BAgNEBc">
+          <accordion-entry-search-icon>
+            <span class="QDvyZe WqQeqc LsF2v">
+              <span></span>
+            </span>
+          </accordion-entry-search-icon>
+          <div class="EbCMvf cREFlf">
+            <div class="yE2Vzb">
+              <span>
+                <div class="BNeawe s3v9rd AP7Wnd lRVwie">Berlin Packaging</div>
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="LKSyXe"></div>
+      <div class="Sljvkf iIWm4b">
+        <a class="fohFr" href="/search?ie=UTF-8&amp;q=Berlin+English&amp;sa=X&amp;ved=2ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ1QJ6BAgNEBk">
+          <accordion-entry-search-icon>
+            <span class="QDvyZe WqQeqc LsF2v">
+              <span></span>
+            </span>
+          </accordion-entry-search-icon>
+          <div class="EbCMvf cREFlf">
+            <div class="yE2Vzb">
+              <span>
+                <div class="BNeawe s3v9rd AP7Wnd lRVwie">Berlin English</div>
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+    <footer>
+      <div>
+        <div class="ZINbbc xpd O9g5cc uUPGi BmP5tf">
+          <div class="nMymef MUxGbd lyLwlc">
+            <a class="nBDE1b G5eFlf" href="/search?q=Berlin&amp;ie=UTF-8&amp;ei=Y_j8X_HUNt6N4-EPjrCb4AY&amp;start=10&amp;sa=N" aria-label="Next page">Next &gt;</a>
+          </div>
+        </div>
+      </div>
+      <div id="mCljob">
+        <div>
+          <a href="/url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fq%253DBerlin%26hl%3Den&amp;sa=U&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQxs8CCKsB&amp;usg=AOvVaw1TgLhI3cawz0pq4lUp3wh8">Sign in</a>
+        </div>
+        <div>
+          <a class="ksTU4c" href="https://www.google.com/preferences?hl=en-AU&amp;fg=1&amp;sa=X&amp;ved=0ahUKEwixkompnJXuAhXexjgGHQ7YBmwQ5fUCCKwB">Settings</a>
+          <a class="ksTU4c" href="https://policies.google.com/privacy?hl=en-AU&amp;fg=1">Privacy</a>
+          <a class="ksTU4c" href="https://policies.google.com/terms?hl=en-AU&amp;fg=1">Terms</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+  <!-- cctlcm 5 cctlcm -->
+  <textarea class="csi" name="csi" style="display:none"></textarea>
+</body>

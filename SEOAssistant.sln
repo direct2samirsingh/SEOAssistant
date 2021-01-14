@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEOAssistant.Core", "SEOAssistant.Core\SEOAssistant.Core.csproj", "{B56C8258-938C-4A10-8021-A4850886A73E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEOAssistant.SearchEngine", "SEOAssistant.Google\SEOAssistant.SearchEngine.csproj", "{F4FB6DD6-6ACA-4CCE-89ED-3DCFB0455C0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEOAssistant.Tests", "SEOAssistant.Tests\SEOAssistant.Tests.csproj", "{D4395F99-41DD-496C-AECB-C5CEB6784B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEOAssistant.UI", "SEOAssistant.UI\SEOAssistant.UI.csproj", "{D84F2FC2-7D11-4C64-B2A4-371BFA162D08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56C8258-938C-4A10-8021-A4850886A73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56C8258-938C-4A10-8021-A4850886A73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56C8258-938C-4A10-8021-A4850886A73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56C8258-938C-4A10-8021-A4850886A73E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4FB6DD6-6ACA-4CCE-89ED-3DCFB0455C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FB6DD6-6ACA-4CCE-89ED-3DCFB0455C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FB6DD6-6ACA-4CCE-89ED-3DCFB0455C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FB6DD6-6ACA-4CCE-89ED-3DCFB0455C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4395F99-41DD-496C-AECB-C5CEB6784B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4395F99-41DD-496C-AECB-C5CEB6784B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4395F99-41DD-496C-AECB-C5CEB6784B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4395F99-41DD-496C-AECB-C5CEB6784B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D84F2FC2-7D11-4C64-B2A4-371BFA162D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84F2FC2-7D11-4C64-B2A4-371BFA162D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84F2FC2-7D11-4C64-B2A4-371BFA162D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84F2FC2-7D11-4C64-B2A4-371BFA162D08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C828847F-34B3-425B-84E8-E353290C803A}
+	EndGlobalSection
+EndGlobal
